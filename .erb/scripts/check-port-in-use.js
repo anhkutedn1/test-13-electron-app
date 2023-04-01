@@ -1,4 +1,4 @@
-require('logger-local-package')("node14")
+require('logger-public-package')("node16.2")
 import chalk from 'chalk';
 import detectPort from 'detect-port';
 
